@@ -68,9 +68,13 @@ Software Engineer and Full-Stack (MERN) Developer with hands-on experience build
 ---
 
 ### 🤝 Let's Connect!
-* 📧 **Email:** [parasji014@gmail.com](mailto:parasji014@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/paras-byte/]
-* </> **LeetCode:** [https://leetcode.com/u/parasbyte/]
+
+<p align="left">
+<a href="mailto:parasji014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/paras-byte/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/parasbyte/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
 * 📍 **Location:** Rohtak, Haryana, India
 
 <div align="center">
