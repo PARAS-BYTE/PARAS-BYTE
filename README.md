@@ -1,7 +1,7 @@
-# 🚀 Full-Stack Software Engineer | MERN Specialist
+# 🚀 Hi there, I'm Paras Aneja! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Paras%20Aneja&fontSize=50&animation=fadeIn" />
+  type=waving&color=0077B5&height=200&section=header&text=Paras%20Aneja&fontSize=50&animation=fadeIn" />
   
   <p align="center">
     <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-0077B5?style=for-the-badge" />
